@@ -3,6 +3,7 @@
 "rules": [
   {
   "domain_suffix": [
+    "epicgames.com",
     "userstorage.mega.co.nz",
     "karere.mega.nz"
       ]
